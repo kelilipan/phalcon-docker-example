@@ -1,0 +1,14 @@
+{
+    "name": "phalcon/app",
+    "description": "Mencoba menjalankan phalcon menggunakan docker",
+    "authors": [
+        {
+            "name": "raisoturu",
+            "email": "hi@wisesa.dev"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phalcon/devtools": "^3.4"
+    }
+}
